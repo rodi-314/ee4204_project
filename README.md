@@ -15,7 +15,7 @@ Choose appropriate values for parameters such as data unit size and error probab
 
 ## Usage
 
-There is a client script and a server script that is meant to be run on 2 separate Ubuntu systems in the same network. A usage message will be printed out when running the script describing the order of the command-line arguments to be inputted.
+There is a client script and a server script to be run on 2 separate Ubuntu systems in the same network. A usage message will be printed out when running the script describing the order of the command-line arguments to be inputted.
 
 ### Run client: `./client <Server IP> <Data Unit Size>`
 

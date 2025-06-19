@@ -1,4 +1,4 @@
-# EE4204 — Computer Networks Project
+# EE4204 Computer Networks Project
 
 This individual project was completed as part of the EE4204 Computer Networks course taught at the National University of Singapore (NUS). It focuses on implementing a client server socket program with TCP transport protocol for transferring messages using a flow control protocol. The instructions for the project are provided below.
 
